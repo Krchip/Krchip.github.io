@@ -97,7 +97,7 @@ author:
   name             : "Krchip"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "아직은 개발 초보자."
-  location         : "대한민국 전주시"
+  location         : "대한민국"
   email            : "chip1020@kakao.com"
   links:
     - label: "Email"
