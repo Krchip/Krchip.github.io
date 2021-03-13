@@ -20,7 +20,7 @@ locale                   : "ko-KR"
 title                    : "볼것 없는 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Krchip"
+name                     : "누군가"
 description              : "개인 블로그 "
 url                      : "https://krchip.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
